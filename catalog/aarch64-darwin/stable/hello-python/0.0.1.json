@@ -1,0 +1,119 @@
+{
+  "build": [],
+  "element": {
+    "active": true,
+    "attrPath": [
+      "packages",
+      "aarch64-darwin",
+      "hello-python"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/fdbqcwgznz9cb8cn8244blax6a5cgk8r-python3.10-hello-python-0.0.1"
+    ],
+    "url": "git+https://github.com/cloudprizm/hello-python.git?rev=46e590b0b818e087f8bf86279d17e8ac425a3209"
+  },
+  "eval": {
+    "attrPath": [
+      "packages",
+      "aarch64-darwin",
+      "hello-python"
+    ],
+    "drvPath": "/nix/store/9ah5abn1cwsn90fd1605padi8qrx5rj4-python3.10-hello-python-0.0.1.drv",
+    "meta": {
+      "available": true,
+      "broken": false,
+      "description": "an example flox package",
+      "insecure": false,
+      "isBuildPythonPackage": [
+        "aarch64-linux",
+        "armv5tel-linux",
+        "armv6l-linux",
+        "armv7a-linux",
+        "armv7l-linux",
+        "i686-linux",
+        "m68k-linux",
+        "microblaze-linux",
+        "microblazeel-linux",
+        "mipsel-linux",
+        "mips64el-linux",
+        "powerpc64-linux",
+        "powerpc64le-linux",
+        "riscv32-linux",
+        "riscv64-linux",
+        "s390-linux",
+        "s390x-linux",
+        "x86_64-linux",
+        "x86_64-darwin",
+        "i686-darwin",
+        "aarch64-darwin",
+        "armv7a-darwin"
+      ],
+      "mainProgram": "hello",
+      "name": "python3.10-hello-python-0.0.1",
+      "outputsToInstall": [
+        "out"
+      ],
+      "platforms": [
+        "aarch64-linux",
+        "armv5tel-linux",
+        "armv6l-linux",
+        "armv7a-linux",
+        "armv7l-linux",
+        "i686-linux",
+        "m68k-linux",
+        "microblaze-linux",
+        "microblazeel-linux",
+        "mipsel-linux",
+        "mips64el-linux",
+        "powerpc64-linux",
+        "powerpc64le-linux",
+        "riscv32-linux",
+        "riscv64-linux",
+        "s390-linux",
+        "s390x-linux",
+        "x86_64-linux",
+        "x86_64-darwin",
+        "i686-darwin",
+        "aarch64-darwin",
+        "armv7a-darwin"
+      ],
+      "position": "/nix/store/pxmqm35602j70fiyjlk3lxrz9frg7mzy-source/pkgs/hello-python/default.nix:17",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "python3.10-hello-python-0.0.1",
+    "namespace": [
+      "hello-python"
+    ],
+    "outputs": {
+      "dist": "/nix/store/4c34lim9x8nl7mhfks32hpz5giy4az3l-python3.10-hello-python-0.0.1-dist",
+      "out": "/nix/store/fdbqcwgznz9cb8cn8244blax6a5cgk8r-python3.10-hello-python-0.0.1"
+    },
+    "pname": "python3.10-hello-python",
+    "stability": "stable",
+    "system": "aarch64-darwin",
+    "version": "0.0.1"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1684529821,
+      "narHash": "sha256-QDwfMBD2b0IQXz2OEYR4NBl9Pr2Hg3TscZABd9NtIgk=",
+      "rev": "46e590b0b818e087f8bf86279d17e8ac425a3209",
+      "revCount": 1,
+      "type": "git",
+      "url": "https://github.com/cloudprizm/hello-python.git"
+    },
+    "original": {
+      "rev": "46e590b0b818e087f8bf86279d17e8ac425a3209",
+      "type": "git",
+      "url": "https://github.com/cloudprizm/hello-python.git"
+    },
+    "remote": {
+      "rev": "46e590b0b818e087f8bf86279d17e8ac425a3209",
+      "type": "git",
+      "url": "https://github.com/cloudprizm/hello-python.git"
+    }
+  },
+  "version": 1
+}
